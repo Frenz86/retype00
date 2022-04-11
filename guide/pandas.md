@@ -1,15 +1,15 @@
-#this is my pandas
+# this is my pandas
 
 1. Quick Examples of Drop Rows With Condition in Pandas
 If you are in a hurry, below are some quick examples of pandas dropping/removing/deleting rows with condition(s).
 
 
-# Quick Examples
+## Quick Examples
 
 #Using drop() to delete rows based on column value
 df.drop(df[df['Fee'] >= 24000].index, inplace = True)
 
-# Remove rows
+## Remove rows
 df2 = df[df.Fee >= 24000]
 
 # If you have space in column name
