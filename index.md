@@ -6,3 +6,6 @@
 ## Chapter2:
 
 ![](/static/img/dog.jpg)
+
+![](/static/img/dog.jpg)
+
