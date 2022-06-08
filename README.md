@@ -12,9 +12,13 @@ in package json write:
    "build":"retype build"
   },
   "dependencies": {
-    "retypeapp-win-x64": "^2.2.0"
+    "retypeapp-linux-x64": "^2.2.0"
   }
 }
 
 #comand npm run start
 #comand npm run build
+
+# inside netlify:
+- CI= npm run build
+- folder build(see in static fix compiling)
