@@ -1,6 +1,5 @@
-# From ML Model to ML Pipeline
-
-## With Scikit-learn in Python
+#  Pipeline
+## From ML Model to ML Pipeline
 
 Building machine learning model is not only about choosing the right algorithm and tuning its hyperparameters. Significant amount of time is spent wrangling data and feature engineering before model experimentation begins
 
